@@ -6,6 +6,7 @@ This is the home for my Learning Journal entries for Delta V Code School.
 
 ## Table of Contents
 - [learning journal 01](learningjournal01.md)
+- [learning journal 02](learningjournal02.md)
 
 [My GitHub Page](https://selmat273.github.io/LearningJournal/)
 
