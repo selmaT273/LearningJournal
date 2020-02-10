@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my Learning Journal
+
+- Description with words
+
+[My GitHub Page](https://selmat273.github.io/LearningJournal/)
+
+Table of Contents
+-[learning journal 1b](lab1b.md)
 
 You can use the [editor on GitHub](https://github.com/selmaT273/LearningJournal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
