@@ -1,11 +1,13 @@
 ## Welcome to my Learning Journal
 
-- Description with words
+- This is the home for my Learning Journals for Delta V Code School. 
 
-[My GitHub Page](https://selmat273.github.io/LearningJournal/)
+
 
 Table of Contents
 -[learning journal 1b](lab1b.md)
+
+[My GitHub Page](https://selmat273.github.io/LearningJournal/)
 
 You can use the [editor on GitHub](https://github.com/selmaT273/LearningJournal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
