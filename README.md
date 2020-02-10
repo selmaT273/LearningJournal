@@ -4,8 +4,9 @@
 
 
 
-Table of Contents
--[learning journal 1b](lab1b.md)
+# Table of Contents
+- [learning journal 01](learningjournal01.md)
+- [lab 1b](lab1b.md)
 
 [My GitHub Page](https://selmat273.github.io/LearningJournal/)
 
