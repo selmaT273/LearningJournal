@@ -1,6 +1,6 @@
 ## Welcome to my Learning Journal
 
-- This is the home for my Learning Journals for Delta V Code School. 
+- This is the home for my Learning Journal entries for Delta V Code School. 
 
 
 
