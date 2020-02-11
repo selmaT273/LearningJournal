@@ -1,8 +1,5 @@
 # Welcome to my Learning Journal!
 
-This is the home for my Learning Journal entries for Delta V Code School. 
-
-
 
 ## Table of Contents
 - [growth mindset](growthmindset.md)
