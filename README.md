@@ -5,6 +5,7 @@
 - [growth mindset](growthmindset.md)
 - [learning journal 01](learningjournal01.md)
 - [learning journal 02](learningjournal02.md)
+- [learning journal 03](learningjournal03.md)
 
 ## About Me 
 ![alt text](https://avatars1.githubusercontent.com/u/55901495?s=460&v=4)
