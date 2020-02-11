@@ -1,0 +1,51 @@
+# All About Git
+
+- VCS
+    - See different versions of a single file
+    - Able to revert
+    - Track changes including who made them
+    - Can compare changes
+- LocalVCS
+    - 1 database on your hard drive that stores changes to files
+- CentralizedVCS
+    - A single server
+    - single point of failure (if this server goes down)
+    - Can be accessed by multiple people 
+    -  It initially streamlined collaboration
+- DistributedVCS
+    - Allows multiple users to have mirrored repositories 
+    - Supports simultaneous workflows when working with a team on a project
+- Snapshots
+    - Commits are a snapshot of your file in its current state, has a corresponding number(id)
+    - Allows for the ability to predominantly work on local machine offline 
+    - Tracks changes
+    - Can also detect loss of information or file corruption
+- States
+    - Committed
+        - Securely stored in local db
+    - Modified
+        - Changed but not committed
+    - Staged
+        - Flagged the changed version to be committed next
+- Setting up Repository
+    - Can import current project or directory into Git with git init
+    - Also create a copy of an existing Git repo on your local machine by using git clone
+- Workflow
+    - Working directory
+        - Where files live
+    - Index
+        - Used for staging
+    - Head
+        - Points to most recent commit
+- Saving changes
+    - Files can be..
+        - Tracked 
+            - Part of the most recent “snapshot” aka they were “added”
+        - Untracked
+            - Not added, therefore not in the index
+- Tracking and staging
+    - Git add ‘filename’ or git add . 
+- Committing
+    - Git commit -m ‘made changes to abc’
+- Pushing changes from local to remote
+    - Git push origin master
