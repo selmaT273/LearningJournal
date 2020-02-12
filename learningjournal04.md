@@ -61,12 +61,12 @@
     - ID attribute
     - Class attribute
     - Block Elements
-      - <h1> <p> <ul> <li>
+      - < h1 > < p > <ul> <li>
     - Inline elements
       - <a> <b> <em> <img>
     - <div> allows you to put a group of elements in one block-level box
     - <span>
-    - <iframe>
+    - < iframe>
       - Src
       - Height
       - Width
