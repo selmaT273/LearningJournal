@@ -57,7 +57,6 @@
     - Html pages are text documents made up of tags
   - Ch 17
     - You can give div tags class or id attribute
-    - Comments in html <!--___→ command forward slash
     - Doctypes
     - ID attribute
     - Class attribute
