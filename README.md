@@ -10,6 +10,8 @@
 - [learning journal 05](learningjournal05.md)
 - [learning journal 06](learningjournal06.md)
 - [learning journal 06b](learningjournal06b.md)
+- [learning journal 07](learningjournal07.md)
+- [learning journal 08](learningjournal08.md)
 
 ## About Me 
 ![alt text](https://avatars1.githubusercontent.com/u/55901495?s=460&v=4)
